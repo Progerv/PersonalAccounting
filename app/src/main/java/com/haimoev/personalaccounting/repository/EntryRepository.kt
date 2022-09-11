@@ -1,0 +1,3 @@
+package com.haimoev.personalaccounting.repository
+
+class EntryRepository
